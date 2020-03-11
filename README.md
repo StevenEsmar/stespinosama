@@ -1,2 +1,2 @@
-# stespinosama.github.io
-Visual computing
+# Visual computing
+ 
